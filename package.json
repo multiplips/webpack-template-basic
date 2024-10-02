@@ -1,6 +1,7 @@
 {
   "name": "webpack-template-basic",
   "private": true,
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
